@@ -1,8 +1,6 @@
 ### Namaste! I am Purva Patel.
 -----------------
-
-## I'm a passionate Data Scientist who loves uncovering patterns from complex datasets.
-# (Growing increasingly fond of LLMs lately)
+I'm a passionate Data Scientist who loves uncovering patterns from complex datasets and building machine-learning models. I am growing increasingly fond of LLMs lately! To know more about my projects and just me in general, visit: https://purva117.github.io/website/
 
 ## My Arsenal
 
