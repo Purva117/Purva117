@@ -17,12 +17,3 @@ I'm a passionate Data Scientist who loves uncovering patterns from complex datas
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-
-
-## Pinned Repositories
-
-### [Repository 1](https://github.com/Purva117/Geo_viz)
-**Description:** Attractive landscape narrative of any location
-
-### [Repository 2](https://github.com/Purva117/world_news_map)
-**Description:** A quick summary of the last 24 hours across the planet
