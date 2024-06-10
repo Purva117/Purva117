@@ -19,3 +19,8 @@ I'm a passionate Data Scientist who loves uncovering patterns from complex datas
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purva117&repo=Geo_viz&theme=bear)](https://github.com/purva117/Geo_viz)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purva117&repo=Geo_viz&theme=bear)](https://github.com/purva117/Geo_viz)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purva117&repo=Geo_viz&theme=bear)](https://github.com/purva117/Geo_viz)
