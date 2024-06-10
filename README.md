@@ -2,7 +2,7 @@
 -----------------
 I'm a passionate Data Scientist who loves uncovering patterns from complex datasets and building machine-learning models. I am growing increasingly fond of LLMs lately! To know more about my projects and just me in general, visit: https://purva117.github.io/website/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purva117&layout=donut&theme=shadow_red)](https://github.com/purva117/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purva117&layout=donut&theme=bear)](https://github.com/purva117/github-readme-stats)
 
 ## My Arsenal
 
