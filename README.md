@@ -27,5 +27,4 @@ I'm a passionate Data Scientist who loves uncovering patterns from complex datas
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purva117&repo=World_news_map&theme=bear)](https://github.com/purva117/World_news_map)
 
 
-## Most Current Project
-:point_down:
+### Most Current Project :point_down: :point_down:
