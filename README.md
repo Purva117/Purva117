@@ -23,7 +23,7 @@ I'm a passionate Data Scientist who loves uncovering patterns from complex datas
 
 ## My Yeild
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purva117&repo=Marvel_network&theme=bear)](https://github.com/Purva117/Marvel_network)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purva117&repo=World_news_map&theme=bear)](https://github.com/purva117/World_news_map)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purva117&repo=Global_News_Navigator&theme=bear)](https://github.com/purva117/Global_News_Navigator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purva117&repo=Stock_price_predictor&theme=bear)](https://github.com/purva117/Stock_price_predictor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purva117&repo=Geo_viz&theme=bear)](https://github.com/purva117/Geo_viz)
 
